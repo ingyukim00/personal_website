@@ -4,5 +4,11 @@ html {
 }
 
 h1 {
-    color: #fca311;
+    color: #ffc300;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navigation {
+    background-color: #ffc300;
+    text-align: center;
 }
